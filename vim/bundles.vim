@@ -20,5 +20,8 @@ Bundle 'git://github.com/fholgado/minibufexpl.vim.git'
 " Syntax
 Bundle 'vim-coffee-script'
 
+" Syntastic
+Bundle 'git://github.com/scrooloose/syntastic.git'
+
 
 filetype plugin indent on

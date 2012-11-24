@@ -25,6 +25,9 @@ set smarttab
 imap <F2> <ESC>:w<CR>
 map  <F3> :NERDTreeToggle<CR>
 
+" nerdtree
+let NERDTreeIgnore = ['\.pyc$']
+
 " minibuf
 let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplMapWindowNavArrows = 1

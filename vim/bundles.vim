@@ -11,7 +11,6 @@ Bundle 'gmarik/vundle'
 Bundle 'IndentAnything'
 Bundle 'Javascript-Indentation'
 Bundle 'trailing-whitespace'
-Bundle 'jade.vim'
 
 " Navigation
 Bundle 'The-NERD-tree'
@@ -19,6 +18,13 @@ Bundle 'git://github.com/fholgado/minibufexpl.vim.git'
 
 " Syntax
 Bundle 'vim-coffee-script'
+Bundle 'jade.vim'
+
+" Comments
+Bundle 'tComment'
+
+"Markdown
+Bundle 'git://github.com/suan/vim-instant-markdown.git'
 
 " Syntastic
 Bundle 'git://github.com/scrooloose/syntastic.git'

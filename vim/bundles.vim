@@ -30,5 +30,8 @@ Bundle 'git://github.com/suan/vim-instant-markdown.git'
 " Syntastic
 Bundle 'git://github.com/scrooloose/syntastic.git'
 
+" snipMate
+Bundle 'snipMate'
+
 
 filetype plugin indent on

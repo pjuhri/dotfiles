@@ -15,6 +15,7 @@ Bundle 'trailing-whitespace'
 " Navigation
 Bundle 'The-NERD-tree'
 Bundle 'git://github.com/fholgado/minibufexpl.vim.git'
+Bundle 'git://github.com/kien/ctrlp.vim.git'
 
 " Syntax
 Bundle 'vim-coffee-script'

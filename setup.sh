@@ -13,7 +13,6 @@ vim +BundleInstall +qall
 ln -s ~/dotfiles/git/.gitconfig ~/.gitconfig
 echo "Insert your name for git configuration."
 read name
-echo $name
 git config --global user.name "$name"
 echo "Insert your email for git configuration."
 read email

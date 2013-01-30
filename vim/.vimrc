@@ -10,6 +10,7 @@ set number
 set mouse=a
 filetype plugin on
 filetype indent on
+set ofu=syntaxcomplete#Complete
 
 " Color
 set t_Co=256

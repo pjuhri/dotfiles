@@ -23,8 +23,20 @@ set expandtab
 set smarttab
 
 " key bindings
-imap <F2> <ESC>:w<CR>
+map  <F2> :FixWhitespace<CR>
 map  <F3> :NERDTreeToggle<CR>
+
+" leader key
+let mapleader=","
+map <Leader>1 :b 1<CR>
+map <Leader>2 :b 2<CR>
+map <Leader>3 :b 3<CR>
+map <Leader>4 :b 4<CR>
+map <Leader>5 :b 5<CR>
+map <Leader>6 :b 6<CR>
+map <Leader>7 :b 7<CR>
+map <Leader>8 :b 8<CR>
+map <Leader>9 :b 9<CR>
 
 " nerdtree
 let NERDTreeIgnore = ['\.pyc$']

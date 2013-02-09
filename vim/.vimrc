@@ -12,6 +12,10 @@ filetype plugin on
 filetype indent on
 set ofu=syntaxcomplete#Complete
 
+" swp files
+set backupdir=/tmp
+set directory=/tmp
+
 " Color
 set t_Co=256
 colorscheme wombat256mod

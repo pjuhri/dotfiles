@@ -18,15 +18,8 @@ Bundle 'git://github.com/fholgado/minibufexpl.vim.git'
 Bundle 'git://github.com/kien/ctrlp.vim.git'
 Bundle 'EasyMotion'
 
-" Syntax
-Bundle 'vim-coffee-script'
-Bundle 'jade.vim'
-
 " Comments
 Bundle 'tComment'
-
-"Markdown
-Bundle 'git://github.com/suan/vim-instant-markdown.git'
 
 " Syntastic
 Bundle 'git://github.com/scrooloose/syntastic.git'
